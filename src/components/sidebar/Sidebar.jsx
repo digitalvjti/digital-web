@@ -1,8 +1,14 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
+<<<<<<< HEAD
 import Links from "./links/Links";
 import "./sidebar.scss";
 import ToggleButton from "./toggleButton/ToggleButton";
+=======
+import Links from "./links/Links.jsx";
+import "./sidebar.scss";
+import ToggleButton from "./toggleButton/ToggleButton.jsx";
+>>>>>>> f2ac4f542beb0c90f2b08277124b50c39ac86c90
 
 const variants = {
   open: {

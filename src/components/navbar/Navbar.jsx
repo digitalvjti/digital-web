@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import Sidebar from "../sidebar/Sidebar";
+=======
+import Sidebar from "../sidebar/Sidebar.jsx";
+>>>>>>> f2ac4f542beb0c90f2b08277124b50c39ac86c90
 import "./navbar.scss";
 import { motion } from "framer-motion";
 

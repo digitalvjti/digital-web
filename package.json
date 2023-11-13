@@ -6,7 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+=======
+    "lint": "eslint ../animated-portfolio --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+>>>>>>> f2ac4f542beb0c90f2b08277124b50c39ac86c90
     "preview": "vite preview"
   },
   "dependencies": {

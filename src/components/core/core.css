@@ -100,7 +100,11 @@
   }
   
   .card[for="c1"] {
+<<<<<<< HEAD
     background-image: url('./centenary.png');
+=======
+    background-image: url('centenary.png');
+>>>>>>> f2ac4f542beb0c90f2b08277124b50c39ac86c90
   }
   
   .card[for="c2"] {
